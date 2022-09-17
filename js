@@ -1,0 +1,1 @@
+changes in the data will store the kulfy operations
